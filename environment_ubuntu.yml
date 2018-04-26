@@ -125,5 +125,5 @@ dependencies:
   - zlib=1.2.11=ha838bed_2
   - ffmpeg=3.1.3=0
   - opencv3=3.1.0=py36_0
-prefix: /home/shishito/anaconda3/envs/flow-ubuntu-shishito
+prefix: /home/shishito/anaconda3/envs/flow-ubuntu-shishitomegane
 
