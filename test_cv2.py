@@ -1,3 +1,7 @@
+"""
+OpenCVが正しくインストールされているか確認するプログラム
+rectangle.png が表示されれば良い
+"""
 import cv2
 
 img = cv2.imread("rectangle.png")
