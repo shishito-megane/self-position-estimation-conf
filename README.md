@@ -54,7 +54,7 @@ If you need more information, plese reade https://docs.anaconda.com/anaconda/ins
 You will create conda environment by using `$ conda env create -f environment_ubuntu.yml` .
 If you need more information, please reade https://conda.io/docs/index.html ．
 
-`python/nvironment_ubuntu.yml` が環境構築ファイルです．
+`environment_ubuntu.yml` が環境構築ファイルです．
 
 `$ conda env create -f environment_ubuntu.yml` で作ることができるでしょう．
 詳しくは，https://conda.io/docs/index.html を参考にしてください
