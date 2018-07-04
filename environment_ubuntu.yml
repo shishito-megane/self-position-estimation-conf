@@ -1,4 +1,4 @@
-name: flow-ubuntu-shishitomegane
+name: flow-ubuntu
 channels:
   - menpo
   - conda-forge
@@ -136,5 +136,5 @@ dependencies:
   - zeromq=4.2.5=h439df22_0
   - zlib=1.2.11=ha838bed_2
   - opencv3=3.1.0=py36_0
-prefix: /home/shishito/anaconda3/envs/flow-ubuntu-shishitomegane
+prefix: /home/shishito/anaconda3/envs/flow-ubuntu
 
